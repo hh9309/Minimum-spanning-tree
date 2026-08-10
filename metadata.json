@@ -1,0 +1,6 @@
+{
+  "name": "最小生成树算法云平台",
+  "description": "一个集图论建模、双算法求解、动态步进动画演示、AI灵敏度造价分析及诊断报告导出于一体的MST闭环设计与验证平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
